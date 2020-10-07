@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-<!--
-**Kaushal1011/kaushal1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I like to code, make music and design stuff.
 
-Here are some ideas to get you started:
+🔭 I like to take up newprojects every now and then to explore new set of technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 I am on [linkedin].
+
+👯 I also have [instagram] and [soundcloud] where I share my creative experiences
+
+🤔 I usually work on C++, Python, Javascript, Deep/Machine Learning, Full Stack Apps,but you might find me working on anything bizarre as well 😄 .
+
+## GitHub Stats
+
+![GitHub Stats Card]
+
+## GitHub Trophies
+
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+
+![GitHub Trophies]
+
+[linkedin]: https://www.linkedin.com/in/kaushal1011/
+[instagram]: https://www.instagram.com/kau5hal10/
+[soundcloud]: https://soundcloud.com/kau5hal10
+[github stats card]: https://github-readme-stats.vercel.app/api?username=kaushal1011
+[github trophies]: https://github-profile-trophy.vercel.app/?username=kaushal1011&column=4&margin-w=18&margin-h=15
