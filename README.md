@@ -14,7 +14,7 @@
 
 ![GitHub Stats Card]
 
-__Check My Projects!__
+## __Check My Projects!__
 
 <!-- ## GitHub Trophies -->
 
