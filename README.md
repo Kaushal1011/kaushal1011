@@ -2,7 +2,7 @@
 
 🌱 I like to code, make music and design stuff.
 
-🔭 I like to take up newprojects every now and then to explore new set of technologies.
+🔭 I like to take up new projects every now and then to explore new set of technologies.
 
 💬 I am on [linkedin].
 
