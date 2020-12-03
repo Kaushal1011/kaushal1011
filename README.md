@@ -28,5 +28,5 @@
 [soundcloud]: https://soundcloud.com/kau5hal10
 [github stats card]: https://github-readme-stats.vercel.app/api?username=kaushal1011
 [github trophies]: https://github-profile-trophy.vercel.app/?username=kaushal1011&column=4&margin-w=18&margin-h=15
-[top langs]:https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal1011&layout=compact
+[top langs]:https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal1011
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal1011&layout=compact)] -->
