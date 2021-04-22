@@ -19,9 +19,7 @@
 
 ## GitHub Trophies
 
-https://github.com/ryo-ma/github-profile-trophy
-
-[GitHub Trophies]
+![gitHub trophies]
 
 [linkedin]: https://www.linkedin.com/in/kaushal1011/
 [instagram]: https://www.instagram.com/kau5hal10/
