@@ -16,11 +16,13 @@
 
 ![Top Langs]
 
-## __Check My Projects!__
+
 
 ## GitHub Trophies
 
 ![gitHub trophies]
+
+## __Check My Projects!__
 
 [linkedin]: https://www.linkedin.com/in/kaushal1011/
 [instagram]: https://www.instagram.com/kau5hal10/
