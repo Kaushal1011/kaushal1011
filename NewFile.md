@@ -33,6 +33,9 @@
 [Top Langs]:(https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal1011&layout=compact)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kaushal1011)  
+
 ![GitHub metrics](https://metrics.lecoq.io/kaushal1011)  
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kaushal1011)  
+
 ![Profile views](https://gpvc.arturio.dev/kaushal1011) 
