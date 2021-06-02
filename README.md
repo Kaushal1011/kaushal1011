@@ -16,7 +16,7 @@
 
 ![GitHub Stats Card]
 
-![gitstats]
+<!-- ![gitstats] -->
 <!-- ![top langs] -->
  
 
