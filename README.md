@@ -10,7 +10,7 @@
 
 🤔 I usually work on C++, Python, Javascript, Deep/Machine Learning, Full Stack Apps,but you might find me working on anything bizarre as well 😄 .
 
-<!-- ![Profile views](https://gpvc.arturio.dev/kaushal1011) -->
+![Profile views](https://gpvc.arturio.dev/kaushal1011)
 
 ## GitHub Stats
 
