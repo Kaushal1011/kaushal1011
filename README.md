@@ -20,7 +20,7 @@
 <!-- ![top langs] -->
  
 
-## __Check My Projects!__
+## [__Check My Projects!__](https://www.kaushalpatil.me/projects)
 
 <!-- ## GitHub Trophies -->
 
