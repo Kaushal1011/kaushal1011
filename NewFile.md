@@ -39,3 +39,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kaushal1011)  
 
 ![Profile views](https://gpvc.arturio.dev/kaushal1011) 
+
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
