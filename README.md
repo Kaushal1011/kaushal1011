@@ -8,9 +8,6 @@
 
 👯 I also have [instagram] and [soundcloud] where I share my creative experiences
 
-🤔 I usually work on C++, Python, Javascript, Deep/Machine Learning, Full Stack Apps,but you might find me working on anything bizarre as well 😄 .
-
-
 ## GitHub Stats
 
 ![GitHub Stats Card]
